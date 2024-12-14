@@ -3,7 +3,14 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "cram-session"
+			}
+		},
+		{
+			"path" : "pages/exam/exam",
+			"style" : 
+			{
+				"navigationBarTitleText" : "2024年11月网络工程师上午题"
 			}
 		}
 	],
